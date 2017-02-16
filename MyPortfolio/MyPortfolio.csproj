@@ -96,6 +96,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img\Angel.jpg" />
+    <Content Include="img\portfolio2\lrgAngelCorp.PNG" />
+    <Content Include="img\portfolio2\lrgblackjack.jpg" />
+    <Content Include="img\portfolio2\lrgeco-logo-sqr.png" />
+    <Content Include="img\portfolio2\lrgOctocat.png" />
     <Content Include="img\portfolio\AngelCorp.PNG" />
     <Content Include="img\portfolio\blackjack.jpg" />
     <Content Include="img\portfolio\eco-logo-sqr.png" />
