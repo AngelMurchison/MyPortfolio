@@ -111,10 +111,13 @@
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
     <Content Include="mail\contact_me.php" />
-    <Content Include="vendor\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="vendor\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="vendor\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="vendor\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -134,9 +137,8 @@
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="vendor\bootstrap\css\bootstrap.css" />
     <Content Include="vendor\bootstrap\css\bootstrap.min.css" />
-    <Content Include="vendor\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="vendor\js\bootstrap.js" />
-    <Content Include="vendor\js\bootstrap.min.js" />
+    <Content Include="vendor\jquery\jquery.js" />
+    <Content Include="vendor\jquery\jquery.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -146,8 +148,10 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="vendor\bootstrap\NewFolder2\" />
-    <Folder Include="vendor\bootstrap\NewFolder3\" />
+    <Folder Include="vendor\font-awesome\css\" />
+    <Folder Include="vendor\font-awesome\fonts\" />
+    <Folder Include="vendor\font-awesome\less\" />
+    <Folder Include="vendor\font-awesome\scss\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

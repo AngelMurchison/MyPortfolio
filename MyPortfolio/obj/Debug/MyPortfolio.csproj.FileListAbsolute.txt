@@ -28,6 +28,6 @@ c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPor
 c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\bin\Microsoft.AI.WindowsServer.xml
 c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\bin\Microsoft.ApplicationInsights.xml
 c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
 c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
 c:\users\angel murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\Angel Murchison\documents\visual studio 2015\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
