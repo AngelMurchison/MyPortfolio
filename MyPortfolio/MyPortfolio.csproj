@@ -97,8 +97,8 @@
   <ItemGroup>
     <Content Include="img\Angel.jpg" />
     <Content Include="img\portfolio2\lrgAngelCorp.PNG" />
-    <Content Include="img\portfolio2\lrgblackjack.jpg" />
-    <Content Include="img\portfolio2\lrgeco-logo-sqr.png" />
+    <Content Include="img\portfolio2\lrgBlackjack.jpg" />
+    <Content Include="img\portfolio2\lrgEco-logo-sqr.png" />
     <Content Include="img\portfolio2\lrgOctocat.png" />
     <Content Include="img\portfolio\AngelCorp.PNG" />
     <Content Include="img\portfolio\blackjack.jpg" />
@@ -114,7 +114,9 @@
     <Content Include="less\freelancer.less" />
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
-    <Content Include="mail\contact_me.php" />
+    <Content Include="mail\contact_me.php">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="vendor\bootstrap\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="vendor\bootstrap\js\bootstrap.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.min.js" />
